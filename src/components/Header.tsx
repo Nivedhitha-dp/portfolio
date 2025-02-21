@@ -20,8 +20,9 @@ export default function Header() {
             </a>
             <p className="text-gray-600 mt-1">Ann Arbor, MI • (248) 510-8632</p>
             <a
-              href="Nivedhitha_DP_Resume.pdf"
-              download
+              href="https://github.com/Nivedhitha-dp/portfolio/raw/main/Nivedhitha_DP_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="mt-3 inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
             >
               <Download className="w-4 h-4 mr-2" />
